@@ -1,7 +1,5 @@
 # kubernetes-repo
 
-# kubernetes-repo
-
 Steps to Create k8s cluster with 2 nodes on ubuntu server using Kind.
 1. sudo apt update && sudo apt upgrade -y
 2. sudo apt install -y docker.io
